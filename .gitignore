@@ -19,3 +19,6 @@ doc/
 
 #koans
 .path_progress
+
+#vim
+*.swp
